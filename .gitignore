@@ -1,0 +1,32 @@
+## General
+.DS_Store
+*.log
+.env
+.env.*
+
+## Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Frontend builds
+dist/
+.vite/
+
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
