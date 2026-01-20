@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="clar",
     version="0.1.0",
-    description="VR AI-based tools to support clothing based design fit look and feel",
+    description="VR AI-based tools to support clothing-based design, fit, look, and feel",
     author="Tapsprofile",
     packages=find_packages(),
     install_requires=[

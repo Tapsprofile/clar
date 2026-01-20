@@ -1,5 +1,5 @@
 """
-CLAR - VR AI-based tools to support clothing based design fit look and feel
+CLAR - VR AI-based tools to support clothing-based design, fit, look, and feel
 """
 
 __version__ = "0.1.0"

@@ -1,6 +1,6 @@
 # CLAR - VR AI Clothing Design Tools
 
-**CLAR** is a comprehensive VR AI-based toolkit to support clothing design, fit analysis, look and feel assessment.
+**CLAR** is a comprehensive VR AI-based toolkit to support clothing design, fit analysis, and look and feel assessment.
 
 ## Features
 
